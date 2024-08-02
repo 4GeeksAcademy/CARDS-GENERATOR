@@ -56,6 +56,8 @@
     "parse-github-url": "^1.0.2",
     "prettier": "^1.19.1",
     "prettier-webpack-plugin": "^1.1.0",
+    "prettier.printWidth": 120,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
     "remote-origin-url": "^1.0.0",
     "stack-utils": "^2.0.3",
     "style-loader": "^1.1.3",
